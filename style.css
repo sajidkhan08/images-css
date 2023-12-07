@@ -3,3 +3,12 @@
   width: 250px;
   height: 250px;
 } */
+
+/* ALIGNING IMAGES */
+/* img {
+  margin-left: 200px;
+} */
+
+img {
+  float: right;
+}
