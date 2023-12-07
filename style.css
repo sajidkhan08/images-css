@@ -50,3 +50,38 @@
 /* body {
   background: red url("images/chote-bike.jpeg") no-repeat top right;
 } */
+
+/* GRADIENTS */
+/* body {
+  background-image: linear-gradient(red, green);
+  background-repeat: no-repeat;
+  height: 400px;
+} */
+
+/* #s1 {
+  width: 400px;
+  height: 400px;
+  background-image: linear-gradient(90deg, red, yellow, green, blue);
+  margin: auto;
+} */
+
+/* radial gradient */
+/* #s1 {
+  width: 400px;
+  height: 400px;
+  background-image: radial-gradient(red, yellow, green, blue);
+  margin: auto;
+} */
+
+/* conic gradient */
+/* #s1 {
+  width: 400px;
+  height: 400px;
+  background-image: conic-gradient(
+    red 60deg,
+    yellow 120deg,
+    green 240deg,
+    blue 10deg
+  );
+  margin: auto;
+} */
