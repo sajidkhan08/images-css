@@ -20,3 +20,33 @@
   display: block;
   margin: auto;
 } */
+
+/* BACKGROUND IMAGES */
+/* body {
+  background-image: url("./images/superbike.jpg");
+} */
+
+/* background images */
+/* body {
+  background-image: url("./images/chote-bike.jpeg");
+  background-repeat: repeat-x;
+} */
+
+/* body {
+  font-size: xx-large;
+  background-image: url("./images/superbike.jpg");
+  background-attachment: fixed;
+} */
+
+/* background position */
+/* body {
+  background-image: url("./images/chote-bike.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right center;
+} */
+
+/* background shorthand */
+/* body {
+  background: red url("images/chote-bike.jpeg") no-repeat top right;
+} */
